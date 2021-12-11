@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">CustomAdapterDiffrentArraySize</string>
+
+    <string-array name="items_name">
+        <item>MacBook Pro 1</item>
+        <item>Alienware 1</item>
+        <item>Sony play station 1</item>
+        <item>Xbox One 1</item>
+        <item>Google glass 1</item>
+        <item>Google Nexus 1</item>
+        <item>Google Nexus 1</item>
+
+    </string-array>
+
+    <string-array name="items_name2">
+        <item>MacBook Pro 2</item>
+        <item>Alienware 2</item>
+        <item>Sony play station 2</item>
+        <item>Xbox One 2</item>
+        <item>Google glass 2</item>
+        <item>Google Nexus 2</item>
+        <item>Google Nexus 2</item>
+        <item>Google Nexus 2</item>
+        <item>Google Nexus 2</item>
+        <item>Google Nexus 2</item>
+        <item>Google Nexus 2</item>
+        <item>Google Nexus 2</item>
+
+
+    </string-array>
+
+    <string-array name="item_description">
+        <item>MacBook pro with new graphics and faster flash storage d1.</item>
+        <item>High performance computer gaming system d1.</item>
+        <item>PS4 console, the most immersive gaming experience ever d1.</item>
+        <item>Best games, multi-player and entertainment d1.</item>
+        <item>Optical head mounted display d1</item>
+        <item>Motorolla Nexus x d1</item>
+        <item>Motorolla Nexus y d1</item>
+        <item>Motorolla Nexus y d1</item>
+        <item>Motorolla Nexus y d1</item>
+        <item>Motorolla Nexus y d1</item>
+        <item>Motorolla Nexus y d1</item>
+    </string-array>
+
+    <string-array name="item_description2">
+        <item>MacBook pro with new graphics and faster flash storage d2.</item>
+        <item>High performance computer gaming system d2.</item>
+        <item>PS4 console, the most immersive gaming experience ever. d2</item>
+        <item>Best games, multi-player and entertainment. d2</item>
+        <item>Optical head mounted display d2</item>
+        <item>Motorolla Nexus x d2</item>
+        <item>Motorolla Nexus x d2</item>
+    </string-array>
+
+</resources>

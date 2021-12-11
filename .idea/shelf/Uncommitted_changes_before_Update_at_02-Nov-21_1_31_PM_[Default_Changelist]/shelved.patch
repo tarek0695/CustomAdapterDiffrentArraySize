@@ -1,0 +1,18 @@
+Index: app/src/main/res/values/strings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><resources>\r\n    <string name=\"app_name\">CustomAdapterDiffrentArraySize</string>\r\n\r\n    <string-array name=\"items_name\">\r\n        <item>MacBook Pro</item>\r\n        <item>Alienware</item>\r\n        <item>Sony play station 4</item>\r\n        <item>Xbox One</item>\r\n        <item>Google glass</item>\r\n        <item>Google Nexus 6</item>\r\n<!--        <item>Nexus y</item>-->\r\n    </string-array>\r\n\r\n    <string-array name=\"item_description\">\r\n        <item>MacBook pro with new graphics and faster flash storage.</item>\r\n        <item>High performance computer gaming system.</item>\r\n        <item>PS4 console, the most immersive gaming experience ever.</item>\r\n        <item>Best games, multi-player and entertainment.</item>\r\n        <item>Optical head mounted display</item>\r\n        <item>Motorolla Nexus x</item>\r\n\r\n\r\n    </string-array>\r\n</resources>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/strings.xml	(revision b19d489f9caff9ace8538d73b3234b822ed11060)
++++ app/src/main/res/values/strings.xml	(date 1635838195832)
+@@ -8,7 +8,7 @@
+         <item>Xbox One</item>
+         <item>Google glass</item>
+         <item>Google Nexus 6</item>
+-<!--        <item>Nexus y</item>-->
++        <item>Nexus y</item>
+     </string-array>
+ 
+     <string-array name="item_description">
